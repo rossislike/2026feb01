@@ -1,0 +1,5 @@
+---Basic cli commands
+pwd - present working directory
+ls - list files & folders
+mkdir new_folder - create a folder named new_folder
+cd destination_folder - change directory to destination_folder 
